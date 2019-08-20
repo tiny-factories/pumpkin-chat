@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "alias": ["www.pumpkin.chat"],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "status": 301,
+      "headers": { "Location": "https://docs.google.com/document/d/1pDkYbLDteEQtk1V2ufR3Y9gghyiPxgwJRloRomQVCbk/edit" }
+    }
+  ]
+}
