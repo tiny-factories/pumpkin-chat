@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "alias": ["www.pumpkin.chat"],
+  "alias": ["www.pumpkin.chat", "pumpkin.chat" ],
   "routes": [
     {
       "src": "/(.*)",
